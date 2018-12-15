@@ -19,3 +19,6 @@ organized? How would branches help?
 	Whenever there is some feature that I want to add but it should not roll out
 	to all the users, branching is helpful.
 
+How do the diagrams help you visualize the branch structure?
+
+	It helps in tracking the reachability and identifying the branches.
