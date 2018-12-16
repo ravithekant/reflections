@@ -29,3 +29,10 @@ the diagram the way we do?
 	On merging two branches, all the changes that are made in both branches, they
 	altogether make a new file of all logical changes. And all commits are made in 
 	order of their time stamp.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	Automatic merging creates line by line comparison and then merge by making sure all
+	the possibilities of conflicts. Whereas in manual merging, accuracy may not be assured.
+
+
