@@ -22,3 +22,10 @@ organized? How would branches help?
 How do the diagrams help you visualize the branch structure?
 
 	It helps in tracking the reachability and identifying the branches.
+
+What is the result of merging two branches together? Why do we represent it in 
+the diagram the way we do?
+
+	On merging two branches, all the changes that are made in both branches, they
+	altogether make a new file of all logical changes. And all commits are made in 
+	order of their time stamp.
